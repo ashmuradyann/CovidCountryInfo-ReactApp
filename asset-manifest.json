@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CovidCountryInfo-ReactApp/static/css/main.c32504cd.css",
+    "main.js": "/CovidCountryInfo-ReactApp/static/js/main.ac778244.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CovidCountryInfo-ReactApp/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/CovidCountryInfo-ReactApp/index.html",
+    "main.c32504cd.css.map": "/CovidCountryInfo-ReactApp/static/css/main.c32504cd.css.map",
+    "main.ac778244.js.map": "/CovidCountryInfo-ReactApp/static/js/main.ac778244.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CovidCountryInfo-ReactApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c32504cd.css",
+    "static/js/main.ac778244.js"
+  ]
+}
