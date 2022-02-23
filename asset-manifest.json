@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CovidCountryInfo-ReactApp/static/css/main.01cda407.css",
-    "main.js": "/CovidCountryInfo-ReactApp/static/js/main.d7635ccf.js",
+    "main.css": "/CovidCountryInfo-ReactApp/static/css/main.179226de.css",
+    "main.js": "/CovidCountryInfo-ReactApp/static/js/main.42361dd9.js",
     "static/js/787.28cb0dcd.chunk.js": "/CovidCountryInfo-ReactApp/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/CovidCountryInfo-ReactApp/index.html",
-    "main.01cda407.css.map": "/CovidCountryInfo-ReactApp/static/css/main.01cda407.css.map",
-    "main.d7635ccf.js.map": "/CovidCountryInfo-ReactApp/static/js/main.d7635ccf.js.map",
+    "main.179226de.css.map": "/CovidCountryInfo-ReactApp/static/css/main.179226de.css.map",
+    "main.42361dd9.js.map": "/CovidCountryInfo-ReactApp/static/js/main.42361dd9.js.map",
     "787.28cb0dcd.chunk.js.map": "/CovidCountryInfo-ReactApp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01cda407.css",
-    "static/js/main.d7635ccf.js"
+    "static/css/main.179226de.css",
+    "static/js/main.42361dd9.js"
   ]
 }
